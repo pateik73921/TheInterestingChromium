@@ -1,2 +1,2 @@
-# TheInterestingChromium
-Its get rid of the google specific things and you need to precompitle the hole browser
+# Chromium
+Its a google browser base for other brawsers like opera and more
